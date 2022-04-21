@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 4000656949435803019}
   - component: {fileID: 4000656949435803018}
   - component: {fileID: 4000656949435803020}
-  - component: {fileID: 4000656949435803023}
   - component: {fileID: 4000656949435803120}
   - component: {fileID: 7205267090746700568}
   - component: {fileID: 5797604204029870271}
@@ -108,19 +107,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &4000656949435803023
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4000656949435803017}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d7f1f0c33206dc749894f02c056d515d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  levelScene: DeathScene
 --- !u!114 &4000656949435803120
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -194,7 +180,7 @@ GameObject:
   - component: {fileID: 4000656950962643102}
   - component: {fileID: 4000656950962643073}
   - component: {fileID: 4000656950962643072}
-  - component: {fileID: 4000656950962643103}
+  - component: {fileID: 3665323757872316726}
   m_Layer: 0
   m_Name: DeathTrigger (1)
   m_TagString: Untagged
@@ -293,7 +279,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 0.8897208}
   m_EdgeRadius: 0
---- !u!114 &4000656950962643103
+--- !u!114 &3665323757872316726
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -302,10 +288,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 4000656950962643101}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d7f1f0c33206dc749894f02c056d515d, type: 3}
+  m_Script: {fileID: 11500000, guid: f141bc46eaa5913489660122a1fe070c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  levelScene: Level_1
+  Respawn: 0
 --- !u!1 &6418262518852683638
 GameObject:
   m_ObjectHideFlags: 0

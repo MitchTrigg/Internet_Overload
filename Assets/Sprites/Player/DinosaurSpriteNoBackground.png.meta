@@ -1,0 +1,2688 @@
+fileFormatVersion: 2
+guid: 037d9ea50ab17994fae5c24845fc7cdf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 761095262922300443
+    second: DinosaurSpriteNoBackground_0
+  - first:
+      213: -6564561514603860869
+    second: DinosaurSpriteNoBackground_1
+  - first:
+      213: 6956616447494314384
+    second: DinosaurSpriteNoBackground_2
+  - first:
+      213: -5353671444564983801
+    second: DinosaurSpriteNoBackground_3
+  - first:
+      213: 4649946748813530195
+    second: DinosaurSpriteNoBackground_4
+  - first:
+      213: -4857371870182167640
+    second: DinosaurSpriteNoBackground_5
+  - first:
+      213: -1836486572129910300
+    second: DinosaurSpriteNoBackground_6
+  - first:
+      213: 6782414617433926722
+    second: DinosaurSpriteNoBackground_7
+  - first:
+      213: -4711649873984506937
+    second: DinosaurSpriteNoBackground_8
+  - first:
+      213: -5044689310472394889
+    second: DinosaurSpriteNoBackground_9
+  - first:
+      213: -2348349177466395962
+    second: DinosaurSpriteNoBackground_10
+  - first:
+      213: 8683732236947132979
+    second: DinosaurSpriteNoBackground_11
+  - first:
+      213: 2524392125677056179
+    second: DinosaurSpriteNoBackground_12
+  - first:
+      213: 9133686139062749735
+    second: DinosaurSpriteNoBackground_13
+  - first:
+      213: -1135234456287497131
+    second: DinosaurSpriteNoBackground_14
+  - first:
+      213: 602149483889003713
+    second: DinosaurSpriteNoBackground_15
+  - first:
+      213: 7724724920245041395
+    second: DinosaurSpriteNoBackground_16
+  - first:
+      213: 3717586353687773866
+    second: DinosaurSpriteNoBackground_17
+  - first:
+      213: -5414837319667055858
+    second: DinosaurSpriteNoBackground_18
+  - first:
+      213: -2229462822916102360
+    second: DinosaurSpriteNoBackground_19
+  - first:
+      213: -8255525263286160923
+    second: DinosaurSpriteNoBackground_20
+  - first:
+      213: 1319835586744870266
+    second: DinosaurSpriteNoBackground_21
+  - first:
+      213: 4611538625000384959
+    second: DinosaurSpriteNoBackground_22
+  - first:
+      213: -2874685415442647898
+    second: DinosaurSpriteNoBackground_23
+  - first:
+      213: 1574779997247213271
+    second: DinosaurSpriteNoBackground_24
+  - first:
+      213: 4259595101842223687
+    second: DinosaurSpriteNoBackground_25
+  - first:
+      213: -5386633537392446217
+    second: DinosaurSpriteNoBackground_26
+  - first:
+      213: 3749132479367123498
+    second: DinosaurSpriteNoBackground_27
+  - first:
+      213: 3123532148668432786
+    second: DinosaurSpriteNoBackground_28
+  - first:
+      213: 7802981037533303894
+    second: DinosaurSpriteNoBackground_29
+  - first:
+      213: 2816319603875182047
+    second: DinosaurSpriteNoBackground_30
+  - first:
+      213: -5712759864638061978
+    second: DinosaurSpriteNoBackground_31
+  - first:
+      213: -2412605212762509141
+    second: DinosaurSpriteNoBackground_32
+  - first:
+      213: 1509101048426229076
+    second: DinosaurSpriteNoBackground_33
+  - first:
+      213: -6155151232956306786
+    second: DinosaurSpriteNoBackground_34
+  - first:
+      213: -427375908732227762
+    second: DinosaurSpriteNoBackground_35
+  - first:
+      213: 8547227657728997230
+    second: DinosaurSpriteNoBackground_36
+  - first:
+      213: 4929756770312824665
+    second: DinosaurSpriteNoBackground_37
+  - first:
+      213: 2243688801047549210
+    second: DinosaurSpriteNoBackground_38
+  - first:
+      213: 8303423580424892897
+    second: DinosaurSpriteNoBackground_39
+  - first:
+      213: -969192585239770745
+    second: DinosaurSpriteNoBackground_40
+  - first:
+      213: 7284877486394683616
+    second: DinosaurSpriteNoBackground_41
+  - first:
+      213: 8752643699606086004
+    second: DinosaurSpriteNoBackground_42
+  - first:
+      213: 9120531526691227513
+    second: DinosaurSpriteNoBackground_43
+  - first:
+      213: 4254261502037964936
+    second: DinosaurSpriteNoBackground_44
+  - first:
+      213: 201381898224915368
+    second: DinosaurSpriteNoBackground_45
+  - first:
+      213: 152553861728888408
+    second: DinosaurSpriteNoBackground_46
+  - first:
+      213: -511030825948680583
+    second: DinosaurSpriteNoBackground_47
+  - first:
+      213: 8067461824060322107
+    second: DinosaurSpriteNoBackground_48
+  - first:
+      213: -2136069037462834778
+    second: DinosaurSpriteNoBackground_49
+  - first:
+      213: 2264363577540948045
+    second: DinosaurSpriteNoBackground_50
+  - first:
+      213: -7065015161010952877
+    second: DinosaurSpriteNoBackground_51
+  - first:
+      213: 1670170402814151775
+    second: DinosaurSpriteNoBackground_52
+  - first:
+      213: -9123846661892306519
+    second: DinosaurSpriteNoBackground_53
+  - first:
+      213: 413993042285660548
+    second: DinosaurSpriteNoBackground_54
+  - first:
+      213: -519503518370186217
+    second: DinosaurSpriteNoBackground_55
+  - first:
+      213: -2481069421649022005
+    second: DinosaurSpriteNoBackground_56
+  - first:
+      213: 6949386845121281736
+    second: DinosaurSpriteNoBackground_57
+  - first:
+      213: -1303538821796067860
+    second: DinosaurSpriteNoBackground_58
+  - first:
+      213: 4085109065014174847
+    second: DinosaurSpriteNoBackground_59
+  - first:
+      213: -2999005123325639852
+    second: DinosaurSpriteNoBackground_60
+  - first:
+      213: 6814812250679610929
+    second: DinosaurSpriteNoBackground_61
+  - first:
+      213: 1436625968328604118
+    second: DinosaurSpriteNoBackground_62
+  - first:
+      213: -6915893339083517372
+    second: DinosaurSpriteNoBackground_63
+  - first:
+      213: 8183726287236628910
+    second: DinosaurSpriteNoBackground_64
+  - first:
+      213: 3607001967644593902
+    second: DinosaurSpriteNoBackground_65
+  - first:
+      213: -4389056668015289368
+    second: DinosaurSpriteNoBackground_66
+  - first:
+      213: -425647806769878558
+    second: DinosaurSpriteNoBackground_67
+  - first:
+      213: 3085739037531911983
+    second: DinosaurSpriteNoBackground_68
+  - first:
+      213: 7336970771959544990
+    second: DinosaurSpriteNoBackground_69
+  - first:
+      213: 7304459090168989870
+    second: DinosaurSpriteNoBackground_70
+  - first:
+      213: 3781214790542139534
+    second: DinosaurSpriteNoBackground_71
+  - first:
+      213: 4081595099665977299
+    second: DinosaurSpriteNoBackground_72
+  - first:
+      213: 5504121798180210038
+    second: DinosaurSpriteNoBackground_73
+  - first:
+      213: 2324867381420121575
+    second: DinosaurSpriteNoBackground_74
+  - first:
+      213: 7423151431627535232
+    second: DinosaurSpriteNoBackground_75
+  - first:
+      213: 8727887775312861380
+    second: DinosaurSpriteNoBackground_76
+  - first:
+      213: -1861523101052300841
+    second: DinosaurSpriteNoBackground_77
+  - first:
+      213: 7663227870425620076
+    second: DinosaurSpriteNoBackground_78
+  - first:
+      213: -2832621461182171360
+    second: DinosaurSpriteNoBackground_79
+  - first:
+      213: -4341563816484856912
+    second: DinosaurSpriteNoBackground_80
+  - first:
+      213: -6454072376820127309
+    second: DinosaurSpriteNoBackground_81
+  - first:
+      213: -1858925497759397082
+    second: DinosaurSpriteNoBackground_82
+  - first:
+      213: 6641509418682336920
+    second: DinosaurSpriteNoBackground_83
+  - first:
+      213: 2074280250811128051
+    second: DinosaurSpriteNoBackground_84
+  - first:
+      213: 2653963669372008034
+    second: DinosaurSpriteNoBackground_85
+  - first:
+      213: -5626448610014915460
+    second: DinosaurSpriteNoBackground_86
+  - first:
+      213: 8798308295086672818
+    second: DinosaurSpriteNoBackground_87
+  - first:
+      213: 6096464327881154142
+    second: DinosaurSpriteNoBackground_88
+  - first:
+      213: 4705875951859859806
+    second: DinosaurSpriteNoBackground_89
+  - first:
+      213: 4057094458511849573
+    second: DinosaurSpriteNoBackground_90
+  - first:
+      213: -6985762843697911793
+    second: DinosaurSpriteNoBackground_91
+  - first:
+      213: 2713958391965673817
+    second: DinosaurSpriteNoBackground_92
+  - first:
+      213: -4185531504811166240
+    second: DinosaurSpriteNoBackground_93
+  - first:
+      213: -4824194310179842638
+    second: DinosaurSpriteNoBackground_94
+  - first:
+      213: 594658518581752473
+    second: DinosaurSpriteNoBackground_95
+  - first:
+      213: 2262926177249778486
+    second: DinosaurSpriteNoBackground_96
+  - first:
+      213: 883529364774053714
+    second: DinosaurSpriteNoBackground_97
+  - first:
+      213: -8093639009059609266
+    second: DinosaurSpriteNoBackground_98
+  - first:
+      213: -370577001139264518
+    second: DinosaurSpriteNoBackground_99
+  - first:
+      213: -5265982841740939278
+    second: DinosaurSpriteNoBackground_100
+  - first:
+      213: 2426669971288543645
+    second: DinosaurSpriteNoBackground_101
+  - first:
+      213: 5702973798145281995
+    second: DinosaurSpriteNoBackground_102
+  - first:
+      213: 8443729643169744534
+    second: DinosaurSpriteNoBackground_103
+  - first:
+      213: -3489749784427871686
+    second: DinosaurSpriteNoBackground_104
+  - first:
+      213: 4822612240391806154
+    second: DinosaurSpriteNoBackground_105
+  - first:
+      213: -583176804496292044
+    second: DinosaurSpriteNoBackground_106
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 32
+        width: 258
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c57b2fb14ff8a00800000000000000
+      internalID: 761095262922300443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_1
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 26
+        width: 717
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c26df351ef5e4a0800000000000000
+      internalID: -6564561514603860869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_2
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 106
+        width: 118
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099d98f1dcdda8060800000000000000
+      internalID: 6956616447494314384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_3
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 106
+        width: 81
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7004d86af20f3b5b0800000000000000
+      internalID: -5353671444564983801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_4
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 106
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354538b7eede78040800000000000000
+      internalID: 4649946748813530195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_5
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 32
+        width: 115
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab21dff406279cb0800000000000000
+      internalID: -4857371870182167640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_6
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 32
+        width: 91
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e10c69513d7386e0800000000000000
+      internalID: -1836486572129910300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_7
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 32
+        width: 91
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ce097e82aff1e50800000000000000
+      internalID: 6782414617433926722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_8
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 32
+        width: 90
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3b32b276bdc9eb0800000000000000
+      internalID: -4711649873984506937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_9
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 32
+        width: 90
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777251fccc9adf9b0800000000000000
+      internalID: -5044689310472394889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_10
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 37
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2e88c7ddcf86fd0800000000000000
+      internalID: -2348349177466395962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_11
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 79
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33297db0670d28870800000000000000
+      internalID: 8683732236947132979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_12
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 79
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b036c47341780320800000000000000
+      internalID: 2524392125677056179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_13
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 79
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a8eb0b62f51ce70800000000000000
+      internalID: 9133686139062749735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_14
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 79
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5543338d646de30f0800000000000000
+      internalID: -1135234456287497131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_15
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 79
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc83e8e3c34b5800800000000000000
+      internalID: 602149483889003713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_16
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 79
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f830da336cb33b60800000000000000
+      internalID: 7724724920245041395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_17
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 32
+        width: 238
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa246619715879330800000000000000
+      internalID: 3717586353687773866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 11
+        width: 2402
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0387b49522aad4b0800000000000000
+      internalID: -5414837319667055858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_19
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 9
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8276520ff5b5f01e0800000000000000
+      internalID: -2229462822916102360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_20
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 9
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1b09f338b7e6d80800000000000000
+      internalID: -8255525263286160923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_21
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 9
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75e8dd297ff05210800000000000000
+      internalID: 1319835586744870266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_22
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 9
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9242b42f97fff30800000000000000
+      internalID: 4611538625000384959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_23
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 9
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a47b8b68d01b18d0800000000000000
+      internalID: -2874685415442647898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_24
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 9
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de8f4f501ebad510800000000000000
+      internalID: 1574779997247213271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_25
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 9
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742bc444d2f1d1b30800000000000000
+      internalID: 4259595101842223687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_26
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 9
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4748c5655de35b0800000000000000
+      internalID: -5386633537392446217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_27
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 9
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a229e805028970430800000000000000
+      internalID: 3749132479367123498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_28
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 9
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29105e5a0f3095b20800000000000000
+      internalID: 3123532148668432786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_29
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 6
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654184369e1c94c60800000000000000
+      internalID: 7802981037533303894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_30
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 3
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5f2fa12c3951720800000000000000
+      internalID: 2816319603875182047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_31
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 3
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662c32dab2338b0b0800000000000000
+      internalID: -5712759864638061978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_32
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0f80e6754b48ed0800000000000000
+      internalID: -2412605212762509141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_33
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 3
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d6d91786761f410800000000000000
+      internalID: 1509101048426229076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_34
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 6
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ae4d4a092849aa0800000000000000
+      internalID: -6155151232956306786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_35
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 3
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fa47610e7a11af0800000000000000
+      internalID: -427375908732227762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_36
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 3
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67b451054add9670800000000000000
+      internalID: 8547227657728997230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_37
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 6
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957a293e9a30a6440800000000000000
+      internalID: 4929756770312824665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_38
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 3
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1516f4b31f232f10800000000000000
+      internalID: 2243688801047549210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_39
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 6
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1f3d2c0cfab3370800000000000000
+      internalID: 8303423580424892897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_40
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78947dd8a7cbc82f0800000000000000
+      internalID: -969192585239770745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_41
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 6
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0bbc81a75191560800000000000000
+      internalID: 7284877486394683616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_42
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 3
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471e4904213a77970800000000000000
+      internalID: 8752643699606086004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_43
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 3
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9778e23d913a29e70800000000000000
+      internalID: 9120531526691227513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_44
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 3
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888b79acb4c2a0b30800000000000000
+      internalID: 4254261502037964936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_45
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 4
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3d3ebf4c37bc200800000000000000
+      internalID: 201381898224915368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_46
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 6
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856e671ddeafd1200800000000000000
+      internalID: 152553861728888408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_47
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 6
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97eed0edb2478e8f0800000000000000
+      internalID: -511030825948680583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_48
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 6
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31f32629c165ff60800000000000000
+      internalID: 8067461824060322107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_49
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 4
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1315e17882b52e0800000000000000
+      internalID: -2136069037462834778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_50
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 6
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4039a93da2ac6f10800000000000000
+      internalID: 2264363577540948045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_51
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 3
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3556133a42604fd90800000000000000
+      internalID: -7065015161010952877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_52
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ccb16e123ad2710800000000000000
+      internalID: 1670170402814151775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_53
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 6
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a986cc1dc5916180800000000000000
+      internalID: -9123846661892306519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_54
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 4
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4898be08a7cceb500800000000000000
+      internalID: 413993042285660548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_55
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 6
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cbaff6d4a5ac8f0800000000000000
+      internalID: -519503518370186217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_56
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 6
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3b68b9188719dd0800000000000000
+      internalID: -2481069421649022005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_57
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 6
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cef936248e217060800000000000000
+      internalID: 6949386845121281736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_58
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 3
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce50ae71956e8ede0800000000000000
+      internalID: -1303538821796067860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_59
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 6
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74e5e00d0931b830800000000000000
+      internalID: 4085109065014174847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_60
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 3
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4534990dab46166d0800000000000000
+      internalID: -2999005123325639852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_61
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 3
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e0db4b2a3139e50800000000000000
+      internalID: 6814812250679610929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_62
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 6
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9f355e4bbefe310800000000000000
+      internalID: 1436625968328604118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_63
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 3
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442df6b66afc500a0800000000000000
+      internalID: -6915893339083517372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_64
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 6
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea104c1f2bf629170800000000000000
+      internalID: 8183726287236628910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_65
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 3
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee4799cd25ae0230800000000000000
+      internalID: 3607001967644593902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_66
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 3
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb93e3f630f613c0800000000000000
+      internalID: -4389056668015289368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_67
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 6
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9ae0e239bc71af0800000000000000
+      internalID: -425647806769878558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_68
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 3
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2735a14e4fb2da20800000000000000
+      internalID: 3085739037531911983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_69
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 6
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c721e4b0822d560800000000000000
+      internalID: 7336970771959544990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_70
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 4
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea845e187d6ae5560800000000000000
+      internalID: 7304459090168989870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_71
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 6
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80a7b971d2997430800000000000000
+      internalID: 3781214790542139534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_72
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 3
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfc0903e1db4a830800000000000000
+      internalID: 4081595099665977299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_73
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 3
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67504050d91926c40800000000000000
+      internalID: 5504121798180210038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_74
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 3
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed5073d096934020800000000000000
+      internalID: 2324867381420121575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_75
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0837714c5e4540760800000000000000
+      internalID: 7423151431627535232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_76
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 6
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c85ff670bfaf1970800000000000000
+      internalID: 8727887775312861380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_77
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d118943a9a8a26e0800000000000000
+      internalID: -1861523101052300841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_78
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 6
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e97998521495a60800000000000000
+      internalID: 7663227870425620076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_79
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 4
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027b617f9c180b8d0800000000000000
+      internalID: -2832621461182171360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_80
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 6
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb1bb426baafb3c0800000000000000
+      internalID: -4341563816484856912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_81
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 3
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9a9f05e578e66a0800000000000000
+      internalID: -6454072376820127309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_82
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 4
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b822adb15c336e0800000000000000
+      internalID: -1858925497759397082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_83
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 6
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896c8f8c0a16b2c50800000000000000
+      internalID: 6641509418682336920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_84
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 4
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8943ae5e259cc10800000000000000
+      internalID: 2074280250811128051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_85
+      rect:
+        serializedVersion: 2
+        x: 2291
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266f5bf55e5c4d420800000000000000
+      internalID: 2653963669372008034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_86
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 6
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c741215acc6dae1b0800000000000000
+      internalID: -5626448610014915460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_87
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 6
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb830967ced91a70800000000000000
+      internalID: 8798308295086672818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_88
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 3
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e5239710efa9450800000000000000
+      internalID: 6096464327881154142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_89
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5109a3de31ae4140800000000000000
+      internalID: 4705875951859859806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_90
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568fdc32ae1bd4830800000000000000
+      internalID: 4057094458511849573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_91
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f086340b4b59d0f90800000000000000
+      internalID: -6985762843697911793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_92
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959ed4047cae9a520800000000000000
+      internalID: 2713958391965673817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_93
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e53683b5410ae5c0800000000000000
+      internalID: -4185531504811166240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_94
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b51546a5d40d0db0800000000000000
+      internalID: -4824194310179842638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_95
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992b9b2a5c6a04800800000000000000
+      internalID: 594658518581752473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_96
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bd7e36e57876f10800000000000000
+      internalID: 2262926177249778486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_97
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257ebffa64de24c00800000000000000
+      internalID: 883529364774053714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_98
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45e1c4043e9daf80800000000000000
+      internalID: -8093639009059609266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_99
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 1
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af32a2d4e227bdaf0800000000000000
+      internalID: -370577001139264518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_100
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffaabc71887be6b0800000000000000
+      internalID: -5265982841740939278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_101
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91d2c95b734da120800000000000000
+      internalID: 2426669971288543645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_102
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 1
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf4fc92478052f40800000000000000
+      internalID: 5702973798145281995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_103
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 1
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6968198af572e2570800000000000000
+      internalID: 8443729643169744534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_104
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 1
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a324e208f0be19fc0800000000000000
+      internalID: -3489749784427871686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_105
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 1
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc1106084c5de240800000000000000
+      internalID: 4822612240391806154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinosaurSpriteNoBackground_106
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 1
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43740ce39c328e7f0800000000000000
+      internalID: -583176804496292044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
