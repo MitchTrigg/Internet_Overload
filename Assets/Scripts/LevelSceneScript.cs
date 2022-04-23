@@ -8,6 +8,7 @@ public class LevelSceneScript : MonoBehaviour
     public string firstLevel;
     public string secondLevel;
     public string thirdLevel;
+    public string MenuReturn;
 
     public void level1(){
         SceneManager.LoadScene(firstLevel);
@@ -17,5 +18,8 @@ public class LevelSceneScript : MonoBehaviour
     }
     public void level3(){
         SceneManager.LoadScene(thirdLevel);
+    }
+    public void MainMenu(){
+        SceneManager.LoadScene(MenuReturn);
     }
 }
