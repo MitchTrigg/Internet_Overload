@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 0cbc3532c3507ac419f06c5c28064375
+guid: 767465bcc80f3a840a0fdd12c76c9456
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1788386266314324645
-    second: RedBookTall_0
+      213: -7437069124838910052
+    second: MediumBlueBook_0
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -106,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: RedBookTall_0
+      name: MediumBlueBook_0
       rect:
         serializedVersion: 2
         x: 11
-        y: 2
+        y: 4
         width: 7
-        height: 28
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -120,8 +120,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5aa3adc75df91d810800000000000000
-      internalID: 1788386266314324645
+      spriteID: c9793f3c8093ac890800000000000000
+      internalID: -7437069124838910052
       vertices: []
       indices: 
       edges: []
