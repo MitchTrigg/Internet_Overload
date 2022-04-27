@@ -1346,6 +1346,7 @@ GameObject:
   m_Component:
   - component: {fileID: 741599077}
   - component: {fileID: 741599076}
+  - component: {fileID: 741599078}
   m_Layer: 0
   m_Name: stairs
   m_TagString: Untagged
@@ -1412,12 +1413,25 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 741599075}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 12, y: 59.2, z: 20}
-  m_LocalScale: {x: 14.387634, y: 13.245258, z: 14.387635}
+  m_LocalPosition: {x: 0.993, y: -0.2425, z: 20}
+  m_LocalScale: {x: 6.301862, y: 2.29051, z: 14.387635}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &741599078
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 741599075}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9b3701ea39d8544486fba9d56e73f24, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerSprite: {fileID: 1144591558}
 --- !u!1 &754399782 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1825346684730222250, guid: 754e968623f9d3746845ee418c23d47c, type: 3}
