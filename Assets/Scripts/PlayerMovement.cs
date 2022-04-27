@@ -18,6 +18,17 @@ public class PlayerMovement : MonoBehaviour
     private bool isjumping = false;
     private bool isgrounded;
 
+
+
+
+    Animator animator;
+    enum CharStates{dinoIdle = 1, dinoRun = 2, dinoJump = 3}
+
+
+
+
+
+
     private void Awake(){
         rb = GetComponent<Rigidbody2D>();
     }
