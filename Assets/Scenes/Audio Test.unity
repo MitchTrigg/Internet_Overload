@@ -133,7 +133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 102167953}
   m_Layer: 0
-  m_Name: GroundCheck (1)
+  m_Name: GroundCheck
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -246,7 +246,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1378837494}
   m_Layer: 0
-  m_Name: CeilingCheck (1)
+  m_Name: CeilingCheck
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -299,7 +299,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f2122a42ae3cca47b11fd16a5896bdc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerInput: {x: 0, y: 0}
+  playerInput: {x: 7, y: 7}
   jumpPress: 1
   jumpHold: 0
   groundLayer:
@@ -307,14 +307,14 @@ MonoBehaviour:
     m_Bits: 256
   ceilingCheck: {fileID: 1378837494}
   groundCheck: {fileID: 102167953}
-  runSpeed: 7
-  jumpForce: 6.2
+  runSpeed: 50
+  jumpForce: 10
   fallMultiplier: 2.5
   lowJumpMultiplier: 3
   movementSmoothing: 0.05
   airControl: 1
   rememberGroundedFor: 0.1
-  animator: {fileID: 0}
+  animator: {fileID: 1398363982}
   facingRight: 1
   isGrounded: 1
 --- !u!50 &1398363981
@@ -416,7 +416,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1398363979}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.08, y: 1.52, z: 0}
+  m_LocalPosition: {x: -5.11, y: 1.39, z: 0}
   m_LocalScale: {x: 2, y: 2, z: 1}
   m_Children:
   - {fileID: 1378837494}
