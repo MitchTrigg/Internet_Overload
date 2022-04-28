@@ -4,15 +4,15 @@ using UnityEngine;
 
 public class Test : MonoBehaviour
 {
-    /*
-    [SerializeField] private float m_JumpForce = 400f;							// Amount of force added when the player jumps.
-	[Range(0, 1)] [SerializeField] private float m_CrouchSpeed = .36f;			// Amount of maxSpeed applied to crouching movement. 1 = 100%
+/*
+    [SerializeField] private float m_JumpForce = 850f;							// Amount of force added when the player jumps.
+	//[Range(0, 1)] [SerializeField] private float m_CrouchSpeed = .36f;			// Amount of maxSpeed applied to crouching movement. 1 = 100%
 	[Range(0, .3f)] [SerializeField] private float m_MovementSmoothing = .05f;	// How much to smooth out the movement
 	[SerializeField] private bool m_AirControl = false;							// Whether or not a player can steer while jumping;
 	[SerializeField] private LayerMask m_WhatIsGround;							// A mask determining what is ground to the character
 	[SerializeField] private Transform m_GroundCheck;							// A position marking where to check if the player is grounded.
 	[SerializeField] private Transform m_CeilingCheck;							// A position marking where to check for ceilings
-	[SerializeField] private Collider2D m_CrouchDisableCollider;				// A collider that will be disabled when crouching
+	//[SerializeField] private Collider2D m_CrouchDisableCollider;				// A collider that will be disabled when crouching
 
 	const float k_GroundedRadius = .2f; // Radius of the overlap circle to determine if grounded
 	private bool m_Grounded;            // Whether or not the player is grounded.
@@ -21,16 +21,16 @@ public class Test : MonoBehaviour
 	private bool m_FacingRight = true;  // For determining which way the player is currently facing.
 	private Vector3 m_Velocity = Vector3.zero;
 
-	[Header("Events")]
-	[Space]
+	//[Header("Events")]
+	//[Space]
 
-	public UnityEvent OnLandEvent;
+	//public UnityEvent OnLandEvent;
 
-	[System.Serializable]
-	public class BoolEvent : UnityEvent<bool> { }
+	//[System.Serializable]
+	//public class BoolEvent : UnityEvent<bool> { }
 
-	public BoolEvent OnCrouchEvent;
-	private bool m_wasCrouching = false;
+	//public BoolEvent OnCrouchEvent;
+	//private bool m_wasCrouching = false;
 
 	private void Awake()
 	{
@@ -62,9 +62,10 @@ public class Test : MonoBehaviour
 		}
 	}
 
-
-	public void Move(float move, bool crouch, bool jump)
+	//public void Move(float move, bool crouch, bool jump)
+	public void Move(float move, bool jump)
 	{
+/*
 		// If crouching, check to see if the character can stand up
 		if (!crouch)
 		{
@@ -74,7 +75,8 @@ public class Test : MonoBehaviour
 				crouch = true;
 			}
 		}
-
+*/
+/*
 		//only control the player if grounded or airControl is turned on
 		if (m_Grounded || m_AirControl)
 		{
@@ -94,7 +96,9 @@ public class Test : MonoBehaviour
 				// Disable one of the colliders when crouching
 				if (m_CrouchDisableCollider != null)
 					m_CrouchDisableCollider.enabled = false;
-			} else
+			} 
+
+			else
 			{
 				// Enable the collider when not crouching
 				if (m_CrouchDisableCollider != null)
@@ -107,20 +111,16 @@ public class Test : MonoBehaviour
 				}
 			}
         }
+		
     }
-
-
-
-
-
-
-
-
 */
 
 
 
 
+
+
+/*
 
 
 
@@ -164,5 +164,6 @@ public class Test : MonoBehaviour
         }
         
     }
+*/
     
 }
