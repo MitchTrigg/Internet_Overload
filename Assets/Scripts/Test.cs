@@ -91,7 +91,7 @@ public class Test : MonoBehaviour
         if (isGrounded || airControl)
         {
             // Move the character by finding the target velocity
-            Vector3 targetVelocity = new Vector2(move * 10f, rb2d.velocity.y);
+            Vector3 targetVelocity = new Vector2(move * 15f, rb2d.velocity.y);
             // And then smoothing it out and applying it to the character
             rb2d.velocity = Vector3.SmoothDamp(rb2d.velocity, targetVelocity, ref velocity, movementSmoothing);
 
