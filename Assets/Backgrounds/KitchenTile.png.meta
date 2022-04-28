@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 1ad4c38cdcc5a514987239731d997d46
+guid: efebb3ac0dbf067429c1054d3b3d7780
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6764707825347140516
-    second: Knife_0
+      213: 5650765327672015584
+    second: KitchenTile_0
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -106,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Knife_0
+      name: KitchenTile_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 0
-        width: 7
-        height: 32
+        x: 0
+        y: 2
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -120,8 +120,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4ab1f1b1de111ed50800000000000000
-      internalID: 6764707825347140516
+      spriteID: 0eafbf0602d8b6e40800000000000000
+      internalID: 5650765327672015584
       vertices: []
       indices: 
       edges: []
