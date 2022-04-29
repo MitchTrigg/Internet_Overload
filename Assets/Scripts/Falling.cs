@@ -15,7 +15,7 @@ public class Falling : MonoBehaviour
     void OnCollisionEnter2D(Collision2D coll)
     {
       Debug.Log(coll.gameObject.name);
-        if (coll.gameObject.name.Equals("sprite_0")){
+        if (coll.gameObject.name.Equals("Dino")){
           Debug.Log(coll.gameObject.name);
           Invoke ("DropPlatform", 1f);
           Destroy (gameObject, 1f);

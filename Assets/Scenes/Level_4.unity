@@ -2263,7 +2263,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 8820874397664927681, guid: 60ef5c6e289e8d84db44c6a5f5c0b25f, type: 3}
       propertyPath: m_Name
-      value: DinoWithFlip_4
+      value: Dino
       objectReference: {fileID: 0}
     - target: {fileID: 8820874397664927706, guid: 60ef5c6e289e8d84db44c6a5f5c0b25f, type: 3}
       propertyPath: m_RootOrder
