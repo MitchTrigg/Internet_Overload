@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEditor;
 
 [RequireComponent(typeof(Rigidbody2D))]
 [RequireComponent(typeof(Animator))]
@@ -53,7 +54,7 @@ public class Test : MonoBehaviour
         if (!rb2d || !animator)
         {
             Debug.LogError("Rigidbody2D and Animator required");
-            UnityEditor.EditorApplication.isPlaying = false;
+            //UnityEditor.EditorApplication.isPlaying = false;
         }
         // get child objects, stop game if not found
         groundCheck = transform.Find("GroundCheck").gameObject.transform;
@@ -61,7 +62,7 @@ public class Test : MonoBehaviour
         if (!groundCheck || !ceilingCheck)
         {
             Debug.LogError("GroundCheck and CeilingCheck required");
-            UnityEditor.EditorApplication.isPlaying = false;
+            //UnityEditor.EditorApplication.isPlaying = false;
         }
     }
 
@@ -105,14 +106,14 @@ public class Test : MonoBehaviour
 
     public void Jump()
     {
-        // if jump button pressed + either grounded or late jump off edge 
+        // if jump button pressed + either grounded or late jump off edge
         if (jumpPress && (isGrounded || Time.time - lastTimeGrounded <= rememberGroundedFor))
         {
-            // Add a vertical force to the player 
+            // Add a vertical force to the player
             // => Brackeys version: e.g. jumpForce = 550, rb2d.gravityScale = 3
             //rb2d.AddForce(new Vector2(0f, jumpForce));
 
-            // Add a vertical force to the player 
+            // Add a vertical force to the player
             // => craftgames version: e.g. jumpForce = 6, rb2d.gravityScale = 1
             rb2d.velocity = new Vector2(rb2d.velocity.x, jumpForce);
 
@@ -160,7 +161,7 @@ public class Test : MonoBehaviour
         {
             if (colliders[i].gameObject != gameObject)
             {
-                // if not parent collider then set true 
+                // if not parent collider then set true
                 isGrounded = true;
                 // if wasn't already on ground then it just landed
                 if (!wasGrounded)
@@ -269,7 +270,7 @@ public class Test : MonoBehaviour
 				// Disable one of the colliders when crouching
 				if (m_CrouchDisableCollider != null)
 					m_CrouchDisableCollider.enabled = false;
-			} 
+			}
 
 			else
 			{
@@ -284,7 +285,7 @@ public class Test : MonoBehaviour
 				}
 			}
         }
-		
+
     }
 */
 
@@ -303,7 +304,7 @@ public class Test : MonoBehaviour
     string animationState = "AnimationState";
     Rigidbody2D rb2D;
     enum CharStates{dinoIdle = 1, dinoRun = 2, dinoJump = 3}
-    
+
     private void Start(){
         animator = GetComponent<Animator>();
         rb2D = GetComponent<Rigidbody2D>();
@@ -335,8 +336,8 @@ public class Test : MonoBehaviour
         else{
             animator.SetInteger(animationState, (int)CharStates.dinoIdle);
         }
-        
+
     }
 */
-    
+
 }
