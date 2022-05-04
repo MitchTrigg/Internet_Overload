@@ -3471,10 +3471,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textComponent: {fileID: 369128571}
   lines:
-  - These stairs are the worst.
-  - They'll break in 1 second and I don't want to be on them when they do.
-  - This house is such a death trap.
-  - SMH
+  - These stairs are the worst. (Click)
+  - They'll break in 1 second and I don't want to be on them when they do. (Click)
+  - This house is such a death trap. (Click)
+  - SMH (Click)
   textSpeed: 0.05
 --- !u!114 &824750035
 MonoBehaviour:
