@@ -5913,6 +5913,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: FinishLineTrigger
       objectReference: {fileID: 0}
+    - target: {fileID: 5366829992582017678, guid: 3bb1cd949f2b31947bb3bddd15141de4, type: 3}
+      propertyPath: levelScene
+      value: Level5
+      objectReference: {fileID: 0}
     - target: {fileID: 5366829992582017679, guid: 3bb1cd949f2b31947bb3bddd15141de4, type: 3}
       propertyPath: m_Size.x
       value: 5.1934586
