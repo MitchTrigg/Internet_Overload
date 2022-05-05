@@ -821,7 +821,7 @@ MonoBehaviour:
   textComponent: {fileID: 121618027}
   lines:
   - What happens when your Wifi gets disconnected? Your internet provider isn't the
-    one that turns it back on, your still on hold with them from a year ago. No.
+    one that turns it back on, you're still on hold with them from a year ago. No.
     When the WiFi goes out, in comes the WiFi Dinosaur. (Click)
   - Rexxy is always there whenever your WiFi goes down, but you just don't know it
     yet. He's on the search for your router, and he will stop at nothing to turn
@@ -830,6 +830,7 @@ MonoBehaviour:
     (Click)
   - To help! (Click)
   textSpeed: 0.05
+  isPaused: 0
 --- !u!114 &587658881
 MonoBehaviour:
   m_ObjectHideFlags: 0

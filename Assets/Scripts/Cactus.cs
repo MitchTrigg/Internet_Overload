@@ -13,6 +13,6 @@ public class Cactus : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.position -= new Vector3(3f * Time.deltaTime, 0, 0);
+        transform.position -= new Vector3(4.5f * Time.deltaTime, 0, 0);
     }
 }
