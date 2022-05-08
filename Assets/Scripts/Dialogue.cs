@@ -8,6 +8,7 @@ public class Dialogue : MonoBehaviour
     public TextMeshProUGUI textComponent;
     public string[] lines;
     public float textSpeed;
+    public bool isPaused;
 
     private int index;
 
@@ -23,12 +24,15 @@ public class Dialogue : MonoBehaviour
     {
       if(Input.GetMouseButtonDown(0))
       {
+
         if(textComponent.text == lines[index])
         {
+
           NextLine();
         }
         else
         {
+
           StopAllCoroutines();
           textComponent.text = lines[index];
         }
@@ -36,11 +40,13 @@ public class Dialogue : MonoBehaviour
     }
     void StartDialogue()
     {
+
       index = 0;
       StartCoroutine(TypeLine());
     }
     IEnumerator TypeLine()
     {
+
       foreach(char c in lines[index].ToCharArray())
       {
         textComponent.text += c;
@@ -49,6 +55,7 @@ public class Dialogue : MonoBehaviour
     }
     void NextLine()
     {
+
       if (index < lines.Length - 1)
       {
         index++;
