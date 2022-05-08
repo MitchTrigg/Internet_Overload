@@ -2,9 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class LevelSceneScript : MonoBehaviour
 {
+   
     public string firstLevel;
     public string secondLevel;
     public string thirdLevel;
@@ -35,4 +37,6 @@ public class LevelSceneScript : MonoBehaviour
     public void MainMenu(){
         SceneManager.LoadScene(MenuReturn);
     }
+    
+    
 }
